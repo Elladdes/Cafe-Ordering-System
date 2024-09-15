@@ -1,6 +1,6 @@
 Coffee Shop Project
 
-This Coffee Shop Project is a simple and user-friendly application that simulates a small cafe's ordering system. The program features:
+This Coffee Shop Project is a simple and user-friendly application that simulates a cafe's ordering system. The program features:
 
 Welcome Page: A welcoming interface that introduces users to the coffee shop.
 Drink Menu: A selection of beverages available for purchase, with options to customize your order.
